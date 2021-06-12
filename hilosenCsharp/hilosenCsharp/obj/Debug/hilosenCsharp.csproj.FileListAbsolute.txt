@@ -1,0 +1,7 @@
+D:\Github\Interfaces_java\hilosencsharp\hilosenCsharp\hilosenCsharp\bin\Debug\hilosenCsharp.exe.config
+D:\Github\Interfaces_java\hilosencsharp\hilosenCsharp\hilosenCsharp\bin\Debug\hilosenCsharp.exe
+D:\Github\Interfaces_java\hilosencsharp\hilosenCsharp\hilosenCsharp\bin\Debug\hilosenCsharp.pdb
+D:\Github\Interfaces_java\hilosencsharp\hilosenCsharp\hilosenCsharp\obj\Debug\hilosenCsharp.csprojAssemblyReference.cache
+D:\Github\Interfaces_java\hilosencsharp\hilosenCsharp\hilosenCsharp\obj\Debug\hilosenCsharp.csproj.CoreCompileInputs.cache
+D:\Github\Interfaces_java\hilosencsharp\hilosenCsharp\hilosenCsharp\obj\Debug\hilosenCsharp.exe
+D:\Github\Interfaces_java\hilosencsharp\hilosenCsharp\hilosenCsharp\obj\Debug\hilosenCsharp.pdb
